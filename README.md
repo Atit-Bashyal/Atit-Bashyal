@@ -1,7 +1,8 @@
 # Hi there! 👋 I'm Atit Bashyal.   
 
 🚀 **Data Scientist | Machine Learning Engineer**  
-Passionate about turning data into insights and building scalable ML solutions. I specialize in Machine Learning, Deep Learning and Data Engineering.
+
+Experienced Data Scientist and AI/ML Engineer with 5+ years in developing and deploying machine learning applications. Strong expertise in time series forecasting, predictive modeling, and AI-based optimization. Passionate about leveraging AI to enhance energy management, grid forecasting, and sustainability solutions. Proficient in Python, cloud technologies, and scalable ML pipelines.
 
 ## 🔍 About Me
 - 📊 **Data Science & ML Engineer** with experience in predictive modeling, NLP, and deep learning.
@@ -11,14 +12,14 @@ Passionate about turning data into insights and building scalable ML solutions. 
 
 ## 📌 Some projects you will find in my repository. 
 
-- **[Project 1](https://github.com/Atit-Bashyal/delfine_UI)** – User Interface for Energy Data Management, Built using Django framework.  
+- **[Project 1](https://github.com/Atit-Bashyal/delfine_UI)** – User Interface for Energy Data Management, Built using the Django framework.  
 - **[Project 2](https://github.com/Atit-Bashyal/Bayesian-Models)** – Hierarchical Bayesian Neural Network using Pymc3 to predict power 
      consumption   
 - **[Project 3](https://github.com/Atit-Bashyal/solar)** – Implementation of simple DNN in Keras, with data preprocessing and feature 
      extraction used to predict solar power generation.
 - **[Project 4](https://github.com/Atit-Bashyal/Ontology-matching)** – Implementation of ML models to match ontology classes. Data mining 
      and feature extraction using NLP. 
-- **[Project 5](https://github.com/Atit-Bashyal/Wind)** – Implementation of various models to predict wind power generation, 
+- **[Project 5](https://github.com/Atit-Bashyal/Wind)** – Implement various models to predict wind power generation 
      with data preprocessing and feature extraction.
 - **[Project 6](https://github.com/Atit-Bashyal/BINARY-CLASSIFICATION)** – Implementation of various Binary classification ML algorithms to 
      predict poverty, with data preprocessing and feature extraction.
@@ -30,8 +31,8 @@ Passionate about turning data into insights and building scalable ML solutions. 
      features for human movement classification
 - **[Project 10](https://github.com/Atit-Bashyal/Bayesian_Neural_Network-pyro)** – Bayesian Neural Network using PyTorch and pyro to 
      classify digits 
-- **[Project 11](https://github.com/Atit-Bashyal/Linear_Regression-Back-Propogation)** – Linear Regression weights compution using  
-     backpropogation.
+- **[Project 11](https://github.com/Atit-Bashyal/Linear_Regression-Back-Propogation)** – Linear Regression weights computation using  
+     backpropagation.
 - **[Project 12](https://github.com/Atit-Bashyal/SUPPLIER-CLUSTERING-AND-PRICE-PREDICTION)** – Supplier clustering and product price 
      prediction using ML algorithms
 - **[Project 13](https://github.com/Atit-Bashyal/STATISTICAL-MODELLING-AND-LINEAR-DISCRIMINANT-ANALYSIS)** – Linear discriminant analysis 
@@ -63,6 +64,11 @@ Passionate about turning data into insights and building scalable ML solutions. 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+## 🎓 Education Background
+- **PhD in Information systems and Technology Management ** – [Constructor University, Bremen, Germany]  
+- **MSc in Data Engineering ** – [Jacobs University, Bremen, Germany]
+- **BSc in Physics and Applied Mathematics ** – [Earlham College, Richmond, Indiana, USA]
 
 ## 📬 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atitvilla2@gmail.com)
