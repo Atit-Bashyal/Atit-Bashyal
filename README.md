@@ -72,7 +72,7 @@ Experienced Data Scientist and AI/ML Engineer with 5+ years in developing and de
 
 ## 📬 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atitvilla2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/atit-bashyal-41a076174/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/atit-bashyal-41a076174/)
 
 ## 📖 Read My Published Works
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)]([https://www.researchgate.net/profile/yourprofile](https://www.researchgate.net/profile/Atit-Bashyal-2))
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)]([https://www.researchgate.net/profile/yourprofile](https://www.researchgate.net/profile/Atit-Bashyal-2)
