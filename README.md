@@ -66,9 +66,9 @@ Experienced Data Scientist and AI/ML Engineer with 5+ years in developing and de
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ## 🎓 Education Background
-- **PhD in Information systems and Technology Management ** – [Constructor University, Bremen, Germany]  
-- **MSc in Data Engineering ** – [Jacobs University, Bremen, Germany]
-- **BSc in Physics and Applied Mathematics ** – [Earlham College, Richmond, Indiana, USA]
+- **PhD in Information systems and Technology Management** – [Constructor University, Bremen, Germany]  
+- **MSc in Data Engineering** – [Jacobs University, Bremen, Germany]
+- **BSc in Physics and Applied Mathematics** – [Earlham College, Richmond, Indiana, USA]
 
 ## 📬 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atitvilla2@gmail.com)
