@@ -12,7 +12,7 @@ Experienced Data Scientist and AI/ML Engineer with 5+ years in developing and de
 
 ## 📌 Some projects you will find in my repository. 
 
-- **[MARL: industrial scheduling](https://github.com/Atit-Bashyal/KNN-REGRESSON)** – Multiagent reinforcement learning.
+- **[MARL: industrial scheduling](https://github.com/Atit-Bashyal/marl_schedulling)** – Multiagent reinforcement learning.
 - **[UI](https://github.com/Atit-Bashyal/delfine_UI)** – User Interface for Energy Data Management, Built using the Django framework.  
 - **[Bayesian models](https://github.com/Atit-Bashyal/Bayesian-Models)** – Hierarchical Bayesian Neural Network using Pymc3 to predict power 
      consumption   
