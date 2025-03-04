@@ -12,33 +12,34 @@ Experienced Data Scientist and AI/ML Engineer with 5+ years in developing and de
 
 ## 📌 Some projects you will find in my repository. 
 
-- **[Project 1](https://github.com/Atit-Bashyal/delfine_UI)** – User Interface for Energy Data Management, Built using the Django framework.  
-- **[Project 2](https://github.com/Atit-Bashyal/Bayesian-Models)** – Hierarchical Bayesian Neural Network using Pymc3 to predict power 
+- **[MARL: industrial scheduling](https://github.com/Atit-Bashyal/KNN-REGRESSON)** – Multiagent reinforcement learning.
+- **[UI](https://github.com/Atit-Bashyal/delfine_UI)** – User Interface for Energy Data Management, Built using the Django framework.  
+- **[Bayesian models](https://github.com/Atit-Bashyal/Bayesian-Models)** – Hierarchical Bayesian Neural Network using Pymc3 to predict power 
      consumption   
-- **[Project 3](https://github.com/Atit-Bashyal/solar)** – Implementation of simple DNN in Keras, with data preprocessing and feature 
+- **[Solar forecasting](https://github.com/Atit-Bashyal/solar)** – Implementation of simple DNN in Keras, with data preprocessing and feature 
      extraction used to predict solar power generation.
-- **[Project 4](https://github.com/Atit-Bashyal/Ontology-matching)** – Implementation of ML models to match ontology classes. Data mining 
+- **[Ontology matching](https://github.com/Atit-Bashyal/Ontology-matching)** – Implementation of ML models to match ontology classes. Data mining 
      and feature extraction using NLP. 
-- **[Project 5](https://github.com/Atit-Bashyal/Wind)** – Implement various models to predict wind power generation 
+- **[Wind power forecasting](https://github.com/Atit-Bashyal/Wind)** – Implement various models to predict wind power generation 
      with data preprocessing and feature extraction.
-- **[Project 6](https://github.com/Atit-Bashyal/BINARY-CLASSIFICATION)** – Implementation of various Binary classification ML algorithms to 
+- **[Poverty prediction](https://github.com/Atit-Bashyal/BINARY-CLASSIFICATION)** – Implementation of various Binary classification ML algorithms to 
      predict poverty, with data preprocessing and feature extraction.
-- **[Project 7](https://github.com/Atit-Bashyal/Husehold-clustering-and-segementation)** – Clustering and segmentation of households in 
+- **[Household clustering](https://github.com/Atit-Bashyal/Husehold-clustering-and-segementation)** – Clustering and segmentation of households in 
      Nepal using clustering methods.
-- **[Project 8](https://github.com/Atit-Bashyal/CLASSIFICATION-USING-LINEAR-AND-RIDGE-REGRESSION)** – Numpy-based implementation of linear 
+- **[Image classification](https://github.com/Atit-Bashyal/CLASSIFICATION-USING-LINEAR-AND-RIDGE-REGRESSION)** – Numpy-based implementation of linear 
     and ridge regression models to classify digit images. Regression weights are computed using eigenvector decomposition. 
-- **[Project 9](https://github.com/Atit-Bashyal/DATA-MINING-HUMAN-MOVEMENT-CLASSIFICATION)** – Data mining of sensor data to extract 
+- **[Human movement classification](https://github.com/Atit-Bashyal/DATA-MINING-HUMAN-MOVEMENT-CLASSIFICATION)** – Data mining of sensor data to extract 
      features for human movement classification
-- **[Project 10](https://github.com/Atit-Bashyal/Bayesian_Neural_Network-pyro)** – Bayesian Neural Network using PyTorch and pyro to 
+- **[Bayesian Neural-Network](https://github.com/Atit-Bashyal/Bayesian_Neural_Network-pyro)** – Bayesian Neural Network using PyTorch and pyro to 
      classify digits 
-- **[Project 11](https://github.com/Atit-Bashyal/Linear_Regression-Back-Propogation)** – Linear Regression weights computation using  
+- **[Linear regression back_prop](https://github.com/Atit-Bashyal/Linear_Regression-Back-Propogation)** – Linear Regression weights computation using  
      backpropagation.
-- **[Project 12](https://github.com/Atit-Bashyal/SUPPLIER-CLUSTERING-AND-PRICE-PREDICTION)** – Supplier clustering and product price 
+- **[Supplier clustering](https://github.com/Atit-Bashyal/SUPPLIER-CLUSTERING-AND-PRICE-PREDICTION)** – Supplier clustering and product price 
      prediction using ML algorithms
-- **[Project 13](https://github.com/Atit-Bashyal/STATISTICAL-MODELLING-AND-LINEAR-DISCRIMINANT-ANALYSIS)** – Linear discriminant analysis 
+- **[LDA peverty](https://github.com/Atit-Bashyal/STATISTICAL-MODELLING-AND-LINEAR-DISCRIMINANT-ANALYSIS)** – Linear discriminant analysis 
      used to identify households below the poverty line in Nepal.
-- **[Project 14](https://github.com/Atit-Bashyal/K-MEANS-CLUSTERING)** – Numpy based implementation of K-means-clustering algorithms.
-- **[Project 15](https://github.com/Atit-Bashyal/KNN-REGRESSON)** – Numpy based implementation of KNN-regression.
+- **[K-means](https://github.com/Atit-Bashyal/K-MEANS-CLUSTERING)** – Numpy based implementation of K-means-clustering algorithms.
+- **[KNN-regression](https://github.com/Atit-Bashyal/KNN-REGRESSON)** – Numpy based implementation of KNN-regression.
      
      
   
